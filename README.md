@@ -1,4 +1,4 @@
-#Aplication Backend Menggunakan Spring Boot
+#Aplication Spring Data JPA
 
 # Getting Started
 
